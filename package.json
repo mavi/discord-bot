@@ -23,7 +23,7 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "enmap": "^4.3.2",
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "ffmpeg": "0.0.4",
     "fs": "^0.0.2",
     "moment": "^2.24.0",
