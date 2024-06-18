@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^11.6.4",
     "enmap": "^4.3.2",
     "express": "^4.16.4",
     "ffmpeg": "0.0.4",
